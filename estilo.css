@@ -43,4 +43,20 @@
 
 }
 
-.
+.alert-list {
+  margin-top: .5em;
+  margin-bottom: .5em;
+  padding: 15px;
+}
+
+.alert-element {
+  color: #333;
+  font-weight: bold;
+  font-size: 135%;
+  padding: .5em 0;
+}
+
+.alert-link {
+  color: #333;
+}
+
