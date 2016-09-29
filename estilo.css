@@ -1,0 +1,46 @@
+.headbox{
+  background:white;
+  height:300px;
+  /*padding: .5em;*/
+  padding: 20px !important;
+}
+
+.headbox-chart{
+  pading: 0em;
+  background:white;
+  height:300px;
+}
+.headboxs{
+  margin-top:1em;
+  margin-bottom:1em;
+}
+.contenido-header {
+  background: white;
+  padding-left: .5em;
+  padding-bottom: .5em;
+  padding-top: .2em;
+}
+.contenido-table {
+  background: white;
+}
+#table{
+  margin: 0;
+  margin-left: .5em;
+  width: 98%;
+
+}
+
+.incident-count-num {
+  font-weight: normal;
+  color: inherit;
+}
+
+.incident-count{
+  font-size: 85%;
+  letter-spacing: .15em;
+  color: #a9aebd;
+  text-transform: uppercase;
+
+}
+
+.
