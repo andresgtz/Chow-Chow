@@ -5,6 +5,11 @@
   padding: 20px !important;
 }
 
+.header{
+  margin-top:.5em;
+  margin-bottom: 3em;
+}
+
 .headbox-chart{
   pading: 0em;
   background:white;
@@ -12,31 +17,39 @@
 }
 .headboxs{
   margin-top:1em;
-  margin-bottom:1em;
+  margin-bottom:2em;
 }
 .contenido-header {
   background: white;
-  padding-left: .5em;
+  padding-left: 5em;
   padding-bottom: .5em;
   padding-top: .2em;
+  letter-spacing: .15em;
+  color: black;
+  text-transform: uppercase;
 }
 .contenido-table {
   background: white;
 }
 #table{
   margin: 0;
-  margin-left: .5em;
-  width: 98%;
+  margin-left: 12%;
+  width: 75%;
+  padding-top: 1em;
+  padding-bottom: 1em;
 
 }
 
 .incident-count-num {
   font-weight: normal;
   color: inherit;
+  margin-top: .5em;
+  font-size: 50px;
+
 }
 
 .incident-count{
-  font-size: 85%;
+  font-size: 90%;
   letter-spacing: .15em;
   color: #a9aebd;
   text-transform: uppercase;
@@ -59,4 +72,19 @@
 .alert-link {
   color: #333;
 }
+.chart-img{
 
+  margin-top: 2em;
+}
+.h-divider{
+ padding-top: .5em;
+ margin-top:5px;
+ margin-bottom:5px;
+ height:1px;
+ width:94%;
+ border-top:1px solid gray;
+}
+.table td,th {
+   text-align: center;
+   font-size: 18px;
+}
